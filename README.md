@@ -1,3 +1,7 @@
+# This is a test repo, for testing bloom.
+
+TODO Delete this after testing of https://github.com/ros-infrastructure/bloom/pull/419 is done.
+
 ## geometry2 (kinetic) - 0.5.15-1
 
 The packages in the `geometry2` repository were released into the `kinetic` distro by running `/home/tfoote/work/workspaces/bloom/bloom_venv/bin/bloom-release -t kinetic -r kinetic --edit geometry2` on `Mon, 13 Mar 2017 21:31:02 -0000`
